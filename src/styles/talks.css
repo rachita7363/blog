@@ -28,8 +28,11 @@
 }
 
 .talks-video-container{
+    flex-wrap: wrap;
     display: flex;
     flex-direction: row;
+    width: 100%;
+    justify-content: center;
 }
 
 .talk-video{
