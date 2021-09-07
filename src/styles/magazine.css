@@ -75,12 +75,20 @@
     .magazine-title1 {
         font-family: "Gilroy-SB";
         /* font-size: 2vw; */
-        margin-top: 20px;
+        margin-top: 30px;
     }
     .magazine-title{
         font-family:"Gilroy-SB";
         /* font-size: 2vw; */
-        margin-top: 20px;
+        margin-top: 40px;
+    }
+    .magazines-title {
+        font-size: 5vw;
+        font-family: 'Gilroy-SB';
+    }
+    .magazine-reads {
+        font-family: "Gilroy-XB";
+        font-size: 2.5vw;
     }
 }
 @media screen and (min-device-width: 767px) and (max-device-width: 1023px) { 
