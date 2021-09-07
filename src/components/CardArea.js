@@ -25,7 +25,7 @@ function CardArea() {
 
             <div className="intro-area">
                 <div>
-                    <p className="intro-text">Hi! I am Venkatesh. I founded euclid.ai, a software development and hardware design company headquartered in Bangalore, India. My current primary interest is to build computer-vision based privacy preserving deep learning models that could be scaled into a decentralized ecosystem. Check out my startup at euclid.ai. My current role in the company is to design and build scalable cloud architecture for IoT systems integrating On-device learning for privacy preserving AI into an ecosystem binding edge devices and deep learning together for better understanding the user’s product usage patterns.</p>
+                    <p className="intro-text">Hi! I am Venkatesh. I founded euclid.ai, a software development and hardware design company headquartered in Bangalore, India. My current primary interest is to build computer-vision based privacy preserving deep learning models that could be scaled into a decentralized ecosystem. Check out my startup at <a href="https://www.euclid-ai.com/">euclid.ai</a>. My current role in the company is to design and build scalable cloud architecture for IoT systems integrating On-device learning for privacy preserving AI into an ecosystem binding edge devices and deep learning together for better understanding the user’s product usage patterns.</p>
                 </div>
                 <div className="cv-area">
                 <a href = {resume} target = "_blank"><Button variant="outline-dark">Download CV</Button></a>
