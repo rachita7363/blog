@@ -3,7 +3,7 @@ import '../styles/talks.css'
 
 export default function Talks() {
     return (    <div className="projects-wrapper">
-    <p className="projects-title">talks</p>
+    <p className="projects-title">Talks</p>
 
 
     <div className="projects-area">
